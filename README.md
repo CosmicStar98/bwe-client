@@ -5,6 +5,8 @@
 # BonziWORLD: Enhanced | Client (Production)
 <sub>**Coming summer 2023....**</sub>
 
+#### *Read the [BLOG](https://cosmicstar98.github.io/bonziworldenhanced/) for more information...*
+
 <hr>
 
 `The public release version of the the bwe client`
