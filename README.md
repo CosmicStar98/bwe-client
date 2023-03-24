@@ -3,7 +3,13 @@
 </p>
 
 # BonziWORLD: Enhanced | Client (Production)
-<sub>**Coming summer 2023....**</sub>
+<sub>
+  
+  **Coming summer 2023....**
+  
+  **This project is nearly complete. It's on standby until I can scrounge up enough funds for a 1 year aws server....**
+  
+</sub>
 
 #### *Read the [BLOG POST](https://cosmicstar98.github.io/bonziworldenhanced/) for more information...*
 
