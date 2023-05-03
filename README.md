@@ -2,14 +2,7 @@
   <img width="53%" height="40%" src="https://github.com/CosmicStar98/bwe-client/blob/main/draft%202%20light.png?raw=true" />
 </p>
 
-# BonziWORLD: Enhanced | Client (Production)
-<sub>
-  
-  **Coming summer 2023....**
-  
-  **This project is nearly complete. It's on standby until I can scrounge up enough funds for a 1 year aws server....**
-  
-</sub>
+## BonziWORLD: Enhanced | Client (Production)
 
 #### *Read the [BLOG POST](https://cosmicstar98.github.io/bonziworldenhanced/) for more information...*
 
