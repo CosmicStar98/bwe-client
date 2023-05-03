@@ -15,7 +15,7 @@
 
 <hr>
 
-`The public release version of the the bwe client`
+`Moved to: https://github.com/CosmicStar98/BonziWORLD-Enhanced`
 
 <hr>
 
